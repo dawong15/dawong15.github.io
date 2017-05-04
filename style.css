@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(80,182,150);
+    color: rgb(0,0,0);
+    font-family: "Amatic SC", Arial;
+    text-align: left;
+}
+
+#content {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+header {
+	
+}
+
+footer {
+	//font-style: italic;
+	font-size: 90%;
+    text-align: left;
+}
